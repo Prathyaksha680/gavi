@@ -1,0 +1,70 @@
+
+> @figma/my-make-file@0.0.1 dev
+> vite --host 0.0.0.0 --port 5173
+
+Port 5173 is in use, trying another one...
+Port 5174 is in use, trying another one...
+
+  [32m[1mVITE[22m v6.3.5[39m  [2mready in [0m[1m680[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5175[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.211.193.85:[1m5175[22m/[39m
+[2m7:26:14 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
+[2m7:27:10 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
+[2m7:27:28 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
+[2m7:33:33 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
+[2m7:40:17 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
+[2m7:43:31 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
+[2m7:44:35 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
+[2m7:49:23 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
+[2m7:53:12 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
+[2m12:23:42 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Rooms.tsx, /src/styles/index.css[22m
+[2m12:24:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Rooms.tsx, /src/styles/index.css[22m
+[2m12:28:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Rooms.tsx, /src/styles/index.css[22m
+[2m12:29:35 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Rooms.tsx, /src/styles/index.css[22m
+[2m12:32:14 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Rooms.tsx, /src/styles/index.css[22m
+[2m12:32:41 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Rooms.tsx, /src/styles/index.css[22m
+[2m12:33:25 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Rooms.tsx, /src/styles/index.css[22m
+[2m12:34:43 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Rooms.tsx, /src/styles/index.css[22m
+[2m12:39:57 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Rooms.tsx, /src/styles/index.css[22m
+[2m12:42:48 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Rooms.tsx, /src/styles/index.css[22m
+[2m12:43:14 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Rooms.tsx, /src/styles/index.css[22m
+[2m1:12:09 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Gallery.tsx, /src/styles/index.css[22m
+[2m7:19:27 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/About.tsx, /src/styles/index.css[22m
+[2m7:19:27 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/About.tsx, /src/styles/index.css[22m
+[2m7:19:33 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Gallery.tsx, /src/styles/index.css[22m
+[2m7:19:43 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/images/GaVi-Homestay-frontlongshot.jpg[22m
+[2m7:20:10 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/About.tsx, /src/styles/index.css[22m
+[2m7:24:03 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/About.tsx, /src/styles/index.css[22m
+[2m7:26:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/About.tsx, /src/styles/index.css[22m
+[2m7:29:05 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/About.tsx, /src/styles/index.css[22m
+[2m7:31:28 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/About.tsx, /src/styles/index.css[22m
+[2m7:33:18 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/About.tsx, /src/styles/index.css[22m
+[2m7:36:00 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Contact.tsx, /src/styles/index.css[22m
+[2m8:00:44 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Contact.tsx, /src/styles/index.css[22m
+[2m8:02:22 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Contact.tsx, /src/styles/index.css[22m
+[2m8:02:22 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Contact.tsx, /src/styles/index.css[22m
+[2m8:02:22 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Contact.tsx, /src/styles/index.css[22m
+[2m8:02:22 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Contact.tsx, /src/styles/index.css[22m
+[2m8:02:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Contact.tsx, /src/styles/index.css[22m
+[2m8:04:21 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Contact.tsx, /src/styles/index.css[22m
+[2m8:04:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Contact.tsx, /src/styles/index.css[22m
+[2m8:05:59 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Contact.tsx, /src/styles/index.css[22m
+[2m8:06:40 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Contact.tsx, /src/styles/index.css[22m
+[2m8:07:25 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Contact.tsx, /src/styles/index.css[22m
+[2m8:12:17 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Contact.tsx, /src/styles/index.css[22m
+[2m8:13:00 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Contact.tsx, /src/styles/index.css[22m
+[2m8:16:55 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Contact.tsx, /src/styles/index.css[22m
+[2m8:17:49 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Contact.tsx, /src/styles/index.css[22m
+[2m8:22:25 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
+[2m8:48:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
+[2m8:54:13 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
+[2m9:00:13 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
+[2m9:04:27 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
+[2m9:06:22 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
+[2m9:12:44 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
+[2m9:15:37 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
+[2m9:17:37 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
+[2m9:19:42 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
+[2m9:22:09 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
+[2m9:23:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Home.tsx, /src/styles/index.css[22m
